@@ -50,6 +50,14 @@ $ cat about.txt
 ## `$ ls -la ./repos`
 
 <!-- REPOS_START -->
+<div align="center">
+
+[![windows-batch-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=windows-batch-toolkit&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/windows-batch-toolkit)
+[![tyler-macinnis.github.io](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=tyler-macinnis.github.io&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/tyler-macinnis.github.io)
+[![time-capsule](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=time-capsule&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/time-capsule)
+[![MinimalAppKiller](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=MinimalAppKiller&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/MinimalAppKiller)
+
+</div>
 <!-- REPOS_END -->
 
 ---
