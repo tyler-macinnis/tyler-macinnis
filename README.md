@@ -18,14 +18,6 @@ tyler@macinnis — Embedded Software Engineer
 
 ---
 
-```bash
-$ cat about.txt
-```
-
-> Embedded Software Engineer at **Atlas Copco (BeaconMedaes)**, where I maintain and improve firmware for medical-grade equipment.
-> My curiosity lives at the low level — dissecting software through **reverse engineering** and exploring the limits of **artificial intelligence**.
-> If it runs on bare metal or thinks for itself, I want to understand how.
->
 > 👉 **For the full experience, visit my interactive resume: [tyler-macinnis.github.io](https://tyler-macinnis.github.io/)**
 
 ---
