@@ -18,10 +18,6 @@ tyler@macinnis — Embedded Software Engineer
 
 ---
 
-> 👉 **For the full experience, visit my interactive resume: [tyler-macinnis.github.io](https://tyler-macinnis.github.io/)**
-
----
-
 ## `$ git stats --user tyler-macinnis`
 
 <div align="center">
