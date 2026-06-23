@@ -47,31 +47,10 @@ $ cat about.txt
 
 ---
 
-## `$ cat skills.json`
-
-```json
-{
-  "languages": ["C", "C++", "C#", "Java", "Python", "Ruby"],
-  "tools":     ["Git", "Visual Studio", "AWS", "Azure DevOps", "Windows", "Linux"],
-  "domains":   ["Embedded Systems", "Firmware", "Reverse Engineering", "AI/ML", "OOP"],
-  "strengths": ["Eagle Scout", "Microsoft Excel Certified", "Strong Communicator"]
-}
-```
-
----
-
 ## `$ ls -la ./repos`
 
-> These are pulled automatically from GitHub — no manual updates needed.
-
-<div align="center">
-
-[![windows-batch-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=windows-batch-toolkit&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/windows-batch-toolkit)
-[![time-capsule](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=time-capsule&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/time-capsule)
-[![MinimalAppKiller](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=MinimalAppKiller&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/MinimalAppKiller)
-[![tyler-macinnis.github.io](https://github-readme-stats.vercel.app/api/pin/?username=tyler-macinnis&repo=tyler-macinnis.github.io&theme=github_dark&hide_border=true)](https://github.com/tyler-macinnis/tyler-macinnis.github.io)
-
-</div>
+<!-- REPOS_START -->
+<!-- REPOS_END -->
 
 ---
 
